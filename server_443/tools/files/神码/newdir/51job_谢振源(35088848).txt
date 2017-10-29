@@ -1,0 +1,75 @@
+
+更新时间：2017-07-05
+ 谢振源流程状态：     标签： ID:35088848 目前正在找工作 13649251909 jinyang0701@126.com 男 | 28岁（1988年9月8日 ） | 现居住西安 | 5年工作经验
+最近工作 （7个月 ） 职　位：高级软件工程师公　司：北明软件有限公司行　业：计算机软件最高学历/学位 专　业：电子商务学　校：欧亚学院学历/学位：本科
+个人信息QQ号： 378794981户口/国籍：西安身高： 175cm婚姻状况：已婚家庭地址： 东2环 (邮编：710063) 
+求职意向期望薪资：15-20万元/年地点：西安职能：互联网软件开发工程师行业：互联网/电子商务?计算机软件到岗时间：1周内工作类型：全职自我评价：1 熟悉前后台语言java和javascript
+2 熟悉spring hibernate mybatis等流行框架 
+3 熟悉分布式原理和技术架构、高并发等
+4 熟悉需求分析 业务数据库设计，熟悉java js面向对象编程
+5 熟悉oracle pg mysql sqlserver 等数据库 
+6 熟悉android开发,项目经验较少
+7 熟悉电子商务技术和系统用户体验，有教育 医疗 电力 金融等行业软件开发经验，能够独立负责项目
+8 熟悉团队管理，两年以上管理经验，有良好的决策、计划、组织协调能力以及执行力
+工作经验2016/12-至今北明软件有限公司 (7个月 ) 计算机软件|1000-5000人|国企金融事业部高级软件工程师工作描述：在中国银行软件中心负责两方面工作
+1 开发:负责e融汇，全球电子交易平台，pcts对私平台交易，e校园等项目的接口开发工作
+2测试:负责对上述系统的接口以及相关系统进行联调测试与环境支持2016/3-2016/12深圳市坐标软件开发有限公司 (9个月 ) 医疗/护理/卫生|150-500人|民营公司高级软件工程师工作描述：负责系统架构设计，核心功能开发，系统性能优化等工作2012/3-2015/12西安辛普电子有限责任公司 (3年 9个月 ) 计算机软件|少于50人|民营公司软件开发部技术总监/经理工作描述：该公司主要从事数据交换平台研发和项目实施；数据仓库及BI（商业智能）项目的实施；财政预测、分析、监测预警软件开发等，任职期间，主要从事业务需求分析、代码编写、性能调优和团队管理等工作。
+管理经验： 汇报对象：副总裁| 下属人数：15
+业绩描述：在职期间担任公司技术总监职位，领导团队人数10-15人，主要负责公司制度建设和执行、团队管理、绩效考核、技术选型、技术攻关、项目进度监督和协调，带领团队顺利完成多个项目，并签订多个项目后续建设订单，给公司带来了可观的利润。
+项目经验2016/3-2016/12云健康项目描述：该项目是一个分布式医疗管理系统包含住院 门诊 护士 电子病历等子系统，本人主要负责住院和护士系统设计开发以及技术的选型等工作责任描述：负责住院和护士系统的架构设计和核心功能开发工作2015/3-2015/9p2p借贷平台项目描述：该项目为金融类项目，通过创建该平台帮助借贷双方确立借贷关系并完成相关交易手续。由平台将线下借款业务信息发布到线上，包括金额、利息、还款方式和计划等，投资者根据借款人委托发布的信息，自行决定借出金额，实现自助式借贷， 采用了第三方托管平台技术和CA认证技术，保证了客户资金的安全。责任描述：担任项目负责人，负责项目的需求调研分析、架构设计、核心代码的编写以及任务的分配2014/3-2015/12陕西电力（集团）公司招标投标电子交易平台项目描述：●系统需求描述：该系统主要实现电力招标公司的业务办公无纸化，主要采用了工作流、CA等技术将各部门之间的工作电子化，使得办公效率显著提升。
+●spring +mybatis+activiti责任描述：●开发管理描述：负责整体技术架构，进行需求调研，培训相关开发人员，组织技术攻关。2013/4-2014/3西安交通大学学生综合事务管理系统项目描述：该系统主要为学生提供成绩的查询、选课、选宿舍、社区交流，为教师提供查询个人资料、管理学生日常生活（包括奖助学金分配、宿舍管理、活动管理等），同时拥有sns模块方便师生日常工作学习交流责任描述：本人担任该项目的负责人，主要工作：参加调研会进行需求调研，负责并参与需求分析撰写，与客户沟通协调，制定项目计划和分配任务，负责学生完善信息、选宿舍、奖助学金等模块的设计和实现，监督跟进整个项目2012/11-2013/3西安交通大学校友网项目描述：该项目为交大校友部为方便进行校友返校活动、交流而成立的项目，项目主要功能为返校活动、新闻、捐赠等功能，极大地方便了校友的交流责任描述：作为项目负责人，负责项目的调研、计划和进度跟踪2012/4-2012/10新浪微博应用项目描述：系统需求描述：主要采用新浪开放平台API技术实现个人和企业用户提供定制的招聘信息服务，企业可以发布招聘信息，查看职位投递情况、人才筛选等，发布的同时可以给订阅的个人同步推送微博收藏到个人微博当中，个人可以订阅并查看企业招聘信息并投递，同时给企业邮箱发送邮件
+  ●主要技术：JSP、Spring MVC+hibernate、jquery、log4j
+  ●数据库：mysql
+  ●主要技术：springmvc+hibernate、lucene、jquery等责任描述：●开发描述：本人主要负责数据库的设计和底层DAO的实现，以及简历开发（编辑，投递发邮件等功能）、招聘信息搜索等开发工作2012/3-2014/1西安交通大学就业信息网项目描述：MyEclipse(开发工具)●系统需求描述：该系统主要分为交大毕业生信息模块、企业服务信息模块、就业中心模块，实现三方网上无纸化毕业生签约功能，为毕业生和企业提供需要的信息。
+  ●开发描述：
+     整个系统采用了spring MVC+hibernate框架作为基础框架，项目分层为：数据持久层(Dao)、控制层（web）
+ 、业务逻辑层（Service）、视图层(View)。
+     
+  ●主要技术：JSP 、lucene、jbpm、spring mvc+Hibernate、JSTL、jQuery责任描述：本人主要负责维护并优化系统功能，解决一期用户使用过程中系统存在的bug,参与二期系统新功能的开发以及功能的改造。
+教育经历2007/9-2011/7欧亚学院本科|电子商务专业描述：①主要课程：
+  网页设计（CSS）、asp,Photoshop、电子商务网站建设、SQLserver
+②毕业设计：
+ 《B2C2C创新模式的研究》
+技能特长 （包括IT技能、语言能力、证书、成绩、培训经历）▲技能/语言JavaScript熟练HTML精通Java熟练CSS熟练JSP熟练J2EE熟练英语熟练▲证书2009/9全国计算机等级考试三级 （优秀） 2008/12大学英语四级 （456） ▲培训经历2010/3-2011/3Java软件工程师培训
+培训机构：清华IT培训机构培训描述：主要课程：Core Java、Oracle(PL/SQL)、XML、JavaScript、jQuery、Hibernate、
+          Servlet /JSP、 Struts、Spring
+ zhenyuan,XieProcess Status：     Tag: ID:35088848 I'm looking for jobs now 13649251909 jinyang0701@126.com Male | 28 Years old（1988.9.8） | Living in Xian | 5 Years
+Recent Work (1 year ) Position:Internet/E-Commerce Software EngineerCompany:Xi'an Yunyi Software Co., Ltd.Industry:Telecom & Network EquipmentHighest Degree Major:E-BusinessSchool:Eurasian UniversityDegree:Bachelor
+Basic Info.QQ ID： 378794981Hukou/Nation:Xian Height: 175cmMarital Status:MarriedAddress: Eurasian University (Code:710063) 
+Job PreferencesTarget Salary:￥150,000-200,000 YearLocation:XianFunction:Internet/E-Commerce Software EngineerIndustry:Internet/E-commerce?Computers,SoftwareDuty Time:within 1 weekJob Type:Full-timeSelf Review:I have more than 2 years Java development experience, familiar with the following professional and technical:
+  ● Java development language, and the JavaEE specification Servlet / JSP (JSTL, etc.), JDBC, JavaBeans programming
+  ● grasp Struts + Hibernate + Spring structure, familiar with Tomcat, JBoss server deployment
+  ● use the SQL statement, Oracle, MySQL, SQL Server relational database development experience
+  o HTML tags, JavaScript the CSS, jQuery,
+
+My character is calm and humble, strong sense of responsibility, I hope you give me an opportunity to show myself
+Work Experience2011/3-2012/3Xi'an Yunyi Software Co., Ltd. (1 year ) Telecom & Network Equipment|50-150 people|State-Owned Comp.Software DivisionInternet/E-Commerce Software EngineerDescription:(1)The company's main product is the server hosting and space rental and mobile phone software application products.
+(2)During employment, I am mainly responsible for the company's Web site construction and maintenance, including the page updates, program maintenance, the construction of the new company website.
+(3)From this work experience, my technology and dealing with people has been greatly grow,and I have a profound understanding of the work requires responsibility, patience.This is very helpful for my future work and learning,I am very happy with these experiences into another career.2010/3-2011/3Ali Eurasian business practice project (1 year ) 学生实践 (Part-time) Description:● team members to join me in e-commerce practice in schools, planning a number of e-commerce campus promotional activities,My duties in the team is responsible for the maintenance of the shopping site daemon and Forum forum
+●The project has received the e-commerce "SanChuang" Competition second prize of national undergraduate group, and get bonus
+Project Experience2012/1-2012/3Joyo e-commerce web site systemDescription:MyEclipse(Tools)
+Windows(Software)(1)System Requirements: The user first logged on site registration information, then log in, you can browse the website page product information, and use the shopping cart to purchase goods, generate purchase order information, Achieve ordinary B2C e-commerce activities.
+(2)System module: The system is divided into six modules: database design module, the user module, merchandise display module, shop module, order module, as well as commodity Comments module.
+(3)Development Description:
+Using MVC (Model, View, Controller) pattern for the entire system development projects stratification: the data persistence layer (Dao,), the control layer (Action), Business Logic Layer (Service), the view layer (View)
+(4)The main technology: JSP, HTML, JavaScript, Servlet, Struts + Hibernate, JSTL,, jQuery, jQueryUi, JavaBeans
+(5)Database: OracleResponsibility:I mainly responsible for the design of the database tables and entity classes, the user's shopping cart, the user module (registration, login, logout), Product (paging, etc.), the order module development.2011/9-2011/11Data acquisition and integration systemsDescription:Eclipse(Tools)
+Windows(Software)(1)System Requirements:
+The system is responsible for the acquisition telecommunications server user login log files,Match the data according to user login duration, generating year, month, day data report,Finally, according to the user's logged total length to calculate the cost to the customer.
+(2)System modules:
+System development is divided into six modules, namely: client - data reading module, data matching module, the data transmission module, the server-side - data receiver module, the data storage module, the data integration module.
+(3)Mainly technical: 
+the NIO, network communications, thread, packaging and collection, JDBC and connection pooling, Hibernate
+(4)Database: MySQL
+(5)Project Personal Evaluation:
+This project integrated a lot of knowledge of JAVA basic and advanced part,accordance with the detailed design of the module,throughout the development of thinking is very clear,Read the file, network transmission, the thread read, and write to the database development is going well,The hardest part is the integrated part.Overall, this project allows me to have the overall grasp to project development process, and detailed steps.Responsibility:Mainly responsible for the client - data reading, and matching module
+Education2007/9-2011/7Eurasian UniversityBachelor|E-BusinessDescription:①Main courses:
+ASP, PHP, web design (CSS), Photoshop, e-commerce website, the SQLserver
+②Graduation Design:
+《B2C2C innovation model》
+Graduate Info.▲Honors2009/4National English Contest Award （Third Class C） ▲Position2007/11-2011/7Organization membersDescription:In school, served as a the Organization clerk class cadre, responsible for organizing class meetings, basketball and other group activities.
+Skills & Speciality (Including IT skills、languages、certifications and trainings)▲Skills/LanguagesJavaScriptAdvanced HTMLExpert JavaAdvanced CSSAdvanced JSPAdvanced J2EEAdvanced EnglishAdvanced ▲Certifications2011/7TOEFL （457） 2009/9National Computer Rank Examination Level 3 （Excellent） 2008/12CET4▲Trainings2011/3-2012/2Java Software Engineer Training
+Institution:Tsinghua IT training institutionsDescription:Main Courses:
+ Core Java, Oracle (PL / SQL), XML, JavaScript jQuery, the Hibernate
+ Servlet / JSP, Struts, Spring,
+

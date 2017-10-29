@@ -1,0 +1,65 @@
+<view class="index">
+
+
+  <view class="banner">
+    <swiper indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+      <block wx:for="{{imgUrls}}">
+        <swiper-item>
+          <image src="{{item}}" class="slide-image" />
+        </swiper-item>
+      </block>
+    </swiper>
+  </view>
+
+  <image class="banner-2" src="../../image/7.png"></image>
+
+
+  <view class="menu-wrp">
+    <view class="menu-list" wx:for="{{menu.imgUrls}}">
+
+      <view bindtap="onTouch_{{index+1}}">
+        <image class="menu-img" src="{{item}}" />
+        <view class="menu-desc">{{menu.descs[index]}}</view>
+
+      </view>
+
+    </view>
+  </view>
+
+  <view class="gap-1"></view>
+  <!-- <view class="tb-toppest">
+    <image src="../../image/qiaohetoutiao.png"></image> 
+
+    <view class="content">
+
+      <swiper class="test" vertical="True" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+        <block wx:for="{{toutiaoUrls}}">
+          <swiper-item>
+            <view class="test" bindtap="ontouch_{{index+1}}"> {{item}} </view> 
+          </swiper-item>
+        </block>
+       
+      </swiper>
+ 
+    </view>
+
+  </view> -->
+  <view class="gap-2"></view>
+
+  <!--<view class="banner-3">
+      < image class="title" src="../../../image/banner3_title.png"></image>
+      <view class="content">
+       
+         <view  class="item" wx:for="{{banner3_title}}" wx:for-index="idx" wx:for-item="item">  
+            <view class="_title">{{item}}</view>
+           <view class="_img_box">
+             <image class="_img" src="{{banner3_img[idx]}}"></image>
+           </view>
+            <view class="_desc_bg">
+              {{banner3_desc[idx]}}
+            </view>
+        </view>
+       
+      </view>
+    </view >-->
+</view>

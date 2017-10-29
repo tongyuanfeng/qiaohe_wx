@@ -1,0 +1,17 @@
+/* page/baoming/index.wxss */
+
+
+.baoming{
+    width: 100%;
+    height: 900rpx;
+    margin-bottom: 16rpx;
+    padding-left: 30rpx;
+    padding-right: 30rpx;
+}
+.icon{
+  width:320px;
+  height:320px;
+  display:inline-block;
+  overflow:hidden;
+
+}

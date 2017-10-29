@@ -1,0 +1,1726 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 12">
+<meta name=Originator content="Microsoft Word 12">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>ling.li</o:Author>
+  <o:LastAuthor>zhengnan.li</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>258</o:TotalTime>
+  <o:Created>2012-09-04T02:30:00Z</o:Created>
+  <o:LastSaved>2012-09-04T02:30:00Z</o:LastSaved>
+  <o:Pages>4</o:Pages>
+  <o:Words>660</o:Words>
+  <o:Characters>3763</o:Characters>
+  <o:Company>China</o:Company>
+  <o:Lines>31</o:Lines>
+  <o:Paragraphs>8</o:Paragraphs>
+  <o:CharactersWithSpaces>4415</o:CharactersWithSpaces>
+  <o:Version>12.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>5.25 磅</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 680460288 22 0 262145 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520092929 1073786111 9 0 415 0;}
+@font-face
+	{font-family:微软雅黑;
+	panose-1:2 11 5 3 2 2 4 2 2 4;
+	mso-font-charset:134;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-2147483001 672087122 22 0 262175 0;}
+@font-face
+	{font-family:"\@微软雅黑";
+	panose-1:2 11 5 3 2 2 4 2 2 4;
+	mso-font-charset:134;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-2147483001 672087122 22 0 262175 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 680460288 22 0 262145 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:宋体;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"页眉 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	border:none;
+	mso-border-bottom-alt:solid windowtext .75pt;
+	padding:0cm;
+	mso-padding-alt:0cm 0cm 1.0pt 0cm;
+	font-size:9.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:宋体;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"页脚 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	font-size:9.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:宋体;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	mso-themecolor:hyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"批注框文本 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:9.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:宋体;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+span.Char
+	{mso-style-name:"批注框文本 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:批注框文本;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;}
+span.Char0
+	{mso-style-name:"页眉 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:页眉;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;}
+span.Char1
+	{mso-style-name:"页脚 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:页脚;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:36.0pt 36.0pt 36.0pt 36.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;
+	layout-grid:15.6pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.5pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+table.MsoTableGrid
+	{mso-style-name:网格型;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-priority:59;
+	mso-style-unhide:no;
+	border:solid black 1.0pt;
+	mso-border-themecolor:text1;
+	mso-border-alt:solid black .5pt;
+	mso-border-themecolor:text1;
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-border-insideh:.5pt solid black;
+	mso-border-insideh-themecolor:text1;
+	mso-border-insidev:.5pt solid black;
+	mso-border-insidev-themecolor:text1;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.5pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="10242" fillcolor="#f2f2f2" stroke="f"
+  strokecolor="none [2732]">
+  <v:fill color="#f2f2f2"/>
+  <v:stroke color="none [2732]" on="f"/>
+  <o:colormru v:ext="edit" colors="#a9eff3,#a6d6f6"/>
+  <o:colormenu v:ext="edit" fillcolor="#a6d6f6" strokecolor="none [3212]"
+   shadowcolor="none"/>
+ </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=ZH-CN link=blue vlink=purple style='tab-interval:21.0pt;text-justify-trim:
+punctuation'>
+
+<div class=Section1 style='layout-grid:15.6pt'>
+
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>简历名称：</span></p>
+  </td>
+  <td width=509 valign=top style='width:381.8pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN-US></span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin'>★★★JAVA高级软件工程师四年★★★</span></b></p>
+  </td>
+  <td width=120 rowspan=3 valign=top style='width:90.3pt;padding:0cm 5.4pt 0cm 5.4pt'>
+   <p class=MsoNormal><!--[if gte vml 1]><v:rect id="_x0000_s1030"
+   style='position:absolute;left:0;text-align:left;margin-left:-3.55pt;
+   margin-top:2.65pt;width:87pt;height:38.6pt;z-index:251660288;
+   mso-position-horizontal-relative:text;mso-position-vertical-relative:text'
+   o:button="t" fillcolor="white [3212]" stroked="f" strokecolor="#d8d8d8 [2732]">
+   <v:fill o:detectmouseclick="t"/>
+   <v:textbox style='mso-next-textbox:#_x0000_s1030'>
+    <![if !mso]>
+    <table cellpadding=0 cellspacing=0 width="100%">
+     <tr>
+      <td><![endif]>
+      <div>
+      <p class=MsoNormal align=center style='text-align:center'><b
+      style='mso-bidi-font-weight:normal'><span style='font-size:18.0pt;
+      font-family:"微软雅黑","sans-serif"'>智联招聘<span lang=EN-US><o:p></o:p></span></span></b></p>
+      </div>
+      <![if !mso]></td>
+     </tr>
+    </table>
+    <![endif]></v:textbox>
+  </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+  absolute;z-index:251660288;left:0px;margin-left:-5px;margin-top:4px;
+  width:120px;height:55px'>智联招聘</span><![endif]></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>期望从事职业：</span></p>
+  </td>
+  <td width=509 valign=top style='width:381.8pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+  minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>软件/互联网开发/系统集成、IT运维/技术支持</span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span style='font-family:宋体;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>简历更新时间：</span></p>
+  </td>
+  <td width=509 valign=top style='width:381.8pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+  minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'>2017.08.01</span></b></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:14.0pt;background:#D9D9D9;
+mso-shading:white;mso-pattern:gray-15 auto'>ID</span><span style='font-size:
+14.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin;background:#D9D9D9;mso-shading:white;
+mso-pattern:gray-15 auto'>：</span><span lang=EN-US style='font-size:14.0pt;
+background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'>5Nny2FhLEOJPvRh3PcSfhA
+<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span style='font-family:宋体;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin'></span>
+<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>
+<o:p></o:p></span></p>
+
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 width=712
+ style='width:534.1pt;border-collapse:collapse;border:none;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:
+ none'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=100% colspan=3 valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
+  <table border=0 width=100% >
+  <tr>
+  <td width=50% style='padding:0;'>
+  <p class=MsoNormal align=left style='text-align:left;tab-stops:366.0pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;font-family:
+  "微软雅黑","sans-serif"'>何文<span lang=EN-US><o:p></o:p></span></span></b></p>
+  </td>
+      <td width=50% style='padding:0;'>
+  <p class=MsoNormal align=right style='text-align:right;text-indent:22.3pt;
+  mso-char-indent-count:1.5;tab-stops:366.0pt'><span style='
+  mso-text-fit-id:152800768'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:14.0pt;font-family:"微软雅黑","sans-serif";mso-font-width:93%;
+  mso-font-kerning:0pt'>手机：<span lang=EN-US>18611046897</span></span></b></span><b
+  style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:16.0pt;
+  font-family:"微软雅黑","sans-serif"'><o:p></o:p></span></b></p>
+  </td>
+    </tr>
+ </table></td></tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=580 colspan=2 valign=top style='padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin'>男&nbsp;&nbsp;&nbsp;&nbsp;26岁(1991年1月)&nbsp;&nbsp;&nbsp;&nbsp;4年工作经验&nbsp;&nbsp;&nbsp;&nbsp;本科&nbsp;&nbsp;&nbsp;&nbsp;已婚</span></b></p>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>现居住地：西安 灞桥区 | 户口：宝鸡 | 无党派人士</span></p>
+  </td>
+  <td rowspan=2 valign=top style='width:130px;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><!--[if gte vml 1]><v:rect id="_x0000_s1028"
+   style='position:absolute;left:0;text-align:left;margin-left:0;
+   margin-top:3.7pt;width:81.05pt;height:97.1pt;z-index:1;
+   mso-position-horizontal-relative:text;mso-position-vertical-relative:text'
+   strokecolor="#d8d8d8 [2732]">
+   <v:textbox inset=".5mm,.5mm,.5mm,.5mm"/>
+  </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
+  absolute;z-index:1;left:0px;margin-left:0;margin-top:4px;width:115px;
+  height:135px'>
+  <table cellpadding=0 cellspacing=0>
+   <tr>
+    <td width=115 height=135 bgcolor=white style='border:.75pt solid #D8D8D8;
+    vertical-align:top;background:white'><![endif]><![if !mso]><span
+    style='position:absolute;mso-ignore:vglayout;left:0pt;z-index:1'>
+    <table cellpadding=0 cellspacing=0 width="100%">
+     <tr>
+      <td><![endif]>
+      <div v:shape="_x0000_s1028" style='padding:2.1673pt 2.1673pt 2.1673pt 2.1673pt'
+      class=shape>
+      <p class=MsoNormal align=center style='text-align:center'><span
+      lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="图片_x0020_1"
+       o:spid="_x0000_i1026" type="#_x0000_t75"
+       style='width:75.75pt;height:93pt;visibility:visible;mso-wrap-style:square'>
+       <v:imagedata src="http://rd.zhaopin.com/img/lookResumes.jpg"/>
+      </v:shape><![endif]--><![if !vml]><img width=101 height=124
+      src="http://rd.zhaopin.com/img/lookResumes.jpg" v:shapes="图片_x0020_1"><![endif]></span></p>
+      </div>
+      <![if !mso]></td>
+     </tr>
+    </table>
+    </span><![endif]><![if !mso & !vml]>&nbsp;<![endif]><![if !vml]></td>
+   </tr>
+  </table>
+  </span><![endif]><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+  style='font-size:15.0pt'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes;height:83.6pt'>
+  <td width=518 colspan=2 valign=top style='width:388.15pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:83.6pt'>
+     <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>手机：18611046897<br />E-mail：<a href="mailto:2477227036@qq.com">2477227036@qq.com</a>
+  </span><span lang=EN-US><o:p></o:p></span></p>
+         </td>
+ </tr>
+ <![if !supportMisalignedColumns]>
+ <tr height=0>
+  <td width=442 style='border:none'></td>
+  <td width=76 style='border:none'></td>
+  <td width=195 style='border:none'></td>
+ </tr>
+ <![endif]>
+</table>
+
+<p class=MsoNormal style='tab-stops:366.0pt'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:15.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'>求职意向</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:15.0pt;
+background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;</span><o:p></o:p></span></b></p>
+
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none'>
+
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=121 valign=top style='width:90.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>期望工作地区：<span
+  lang=EN-US style='background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'><o:p></o:p></span></span></p>
+  </td>
+  <td width=592 valign=top style='width:443.65pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>
+  西安<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:1'>
+  <td width=121 valign=top style='width:90.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>期望月薪：<span
+  lang=EN-US style='background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'><o:p></o:p></span></span></p>
+  </td>
+  <td width=592 valign=top style='width:443.65pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span lang=EN-US
+  style='font-size:9.0pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:
+  minor-fareast'>10001-15000元/月<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ 
+ <tr style='mso-yfti-irow:2'>
+  <td width=121 valign=top style='width:90.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>目前状况：<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=592 valign=top style='width:443.65pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>
+  我目前处于离职状态，可立即上岗<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:3'>
+  <td width=121 valign=top style='width:90.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>期望工作性质：<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=592 valign=top style='width:443.65pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>全职<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:4'>
+  <td width=121 valign=top style='width:90.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>期望从事职业：<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=592 valign=top style='width:443.65pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>
+  软件/互联网开发/系统集成、IT运维/技术支持<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
+  <td width=121 valign=top style='width:90.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>期望从事行业：<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=592 valign=top style='width:443.65pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>互联网/电子商务、计算机软件、IT服务(系统/数据/维护)、旅游/度假<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='tab-stops:366.0pt'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:15.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'>自我评价</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:15.0pt;
+background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin'>为人积极上进，敢于吃苦，热爱编程，有信心面对和应对工作中的难题， 在团队开发中能够主动和队员沟通协作，具有良好的团队精神， 在不断的接受新事物的同时我培养出坚强毅力以及学会总结和规划，沟通理解能力强。</span>
+<span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='tab-stops:366.0pt'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:15.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'>工作经历</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:15.0pt;
+background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><o:p></o:p></span></b></p>
+
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;border-collapse:collapse;border:none;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:
+ none'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin'>2015.08 - 2017.07&nbsp;&nbsp;北京腾信软创科技有限公司&nbsp;&nbsp;（1年11个月）</span>
+  <span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin'>高级软件工程师 | 10001-15000元/月</span>
+  <span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>计算机软件 | 企业性质：民营</span>
+  <span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
+  <td width="16%" valign=top style='width:16.94%;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>工作描述：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width="83%" valign=top style='width:83.06%;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>1.完成软件的设计、开发、测试、修改bug等工作，包括业务需求的沟通，功能模块细节设计。<br />2.参与产品构思和架构设计; <br />3.撰写相关的技术文档; <br />4.支持项目对产品的应用服务。<br />5.配合项目经理对项目进度和项目人员进行管理。<br /></span>
+  <span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;border-collapse:collapse;border:none;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:
+ none'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="16%" rowspan=2 valign=top style='width:16.94%;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>管理经验：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width="83%" valign=top style='width:83.06%;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>汇报对象：总监 | 下属人数：14人<br />业绩描述：1.   组织开发工作；<br />2.   保证项目顺利验收；<br />3.   客户沟通，发掘潜在的项目合作机会；<br />4.   负责新项目的技术方案编写以及需求调研和投标。</span>
+  <span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;border-collapse:collapse;border:none;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:
+ none'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin'>2013.06 - 2015.07&nbsp;&nbsp;西软软件股份有限公司&nbsp;&nbsp;（2年1个月）</span>
+  <span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin'>高级软件工程师 | 8001-10000元/月</span>
+  <span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width="100%" colspan=2 valign=top style='width:100.0%;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>计算机软件 | 企业性质：股份制企业</span>
+  <span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
+  <td width="16%" valign=top style='width:16.94%;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>工作描述：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width="83%" valign=top style='width:83.06%;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>1.完成软件的设计、开发、测试、修改bug等工作，包括业务需求的沟通，功能模块细节设计，业务功能实现与单元测试，系统维护; <br />2.参与产品构思和架构设计; <br />3.撰写相关的技术文档; <br />4.支持售前技术服务; <br />5.支持项目对产品的应用服务。<br /> 6.参与新知识的学习和培训 <br />7.完成上级交办的其他事宜</span>
+  <span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+
+<p class=MsoNormal style='tab-stops:366.0pt'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:15.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'>项目经历</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:15.0pt;
+background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><o:p></o:p></span></b></p>
+
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=712 colspan=2 valign=top style='width:534.1pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin'>2016.01 - 2017.06  中车云商</span>
+  <span lang=EN-US style='font-size:9.0pt;background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:1'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>软件环境：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>Linux+ Tomcat+oracle</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:2'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>硬件环境：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>阿里云</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:3'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>开发工具：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>Spring MVC+Spring3+MyBatis+Web Service</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:4'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>责任描述：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>1. 负责完成 网站内容管理,三包网数据接口开发,Excel数据处理,会员权益,用户注册短信,邮件接口开发,汽车生产厂商数据接口开发,webservice接口开发.<br />2. 设计开发架构Spring MVC+Spring3+MyBatis全注解方式的集成，使之基本达到零配置效果；<br />3.通过后台管理对前端网站内容管理进行管理,如首页banner,政策法规,<br />4.对其它汽车厂家提供的配件信息Excel数据逻辑处理;<br />5.会员权益是对汽车维修信息资料的有偿阅读功能并实现购物车功能;<br />6,借助webservice实现 用户注册短信,邮件接口开发,汽车生产厂商数据接口开发等功能;<br />7.对用户行为,产品销量,代理商销量等进行数据统计分析生成图表<br />8.为APP和微信端提供数据接口<br />8.协助项目经理进行管理及商务方面的工作<br /></span><span
+  lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>项目描述：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>“中车云商”是中标集团旗下"主导开发的一款围绕汽车配件销售及维修信息有偿阅读下载的一个数据型项目,也是"互联网+"2016年中标集团的重大项目.</span>
+  <span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=712 colspan=2 valign=top style='width:534.1pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin'>2015.08 - 2015.12  海南航空—空港云APP</span>
+  <span lang=EN-US style='font-size:9.0pt;background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:1'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>软件环境：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>Windows+ Tomcat+ Mysql</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:2'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>硬件环境：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>惠普刀片服务器</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:3'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>开发工具：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>Spring MVC+Spring3+Spring JDBC</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:4'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>责任描述：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>1. 负责完成 机场天气模块、机场流量模块、接机屏显模块、航班查询模块、在线值机模块、机场交通模块，机场招商，积分商城，积分游戏，用户注册，密码找回，每日签到，积分体系，权限开发流程设置<br />2. 设计开发架构Spring MVC+Spring3+Spring JDBC全注解方式的集成，使之基本达到零配置效果；<br />3.  使用Web Service语言通信技术实现 机场天气  机场天气模块、机场流量模块、接机屏显模块、航班查询模块、在线值机模块，用户注册，密码找回；<br />4.协助项目经理对项目人员，项目进度进行管理并协调解决项目中遇到的问题。<br />5,与海航，飞友科技（非常准），航信 等相关接口提供方协调解决开发中遇到的问题，</span><span
+  lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>项目描述：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>“空港云”是海航集团旗下企业“海航实业”主导开发的一款能够便捷旅客出行，让旅客畅享候机楼各式特色服务的移动APP，在空港云APP上您可以自行查阅机场交通、在线值机、航班查询、酒店列表、机场概况、投诉建议、机场地图、景点旅游等多项服务。旨在实现为用户提供便捷的空港体验。</span>
+  <span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=712 colspan=2 valign=top style='width:534.1pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin'>2015.01 - 2015.07  财富聚投股权众筹P2P平台</span>
+  <span lang=EN-US style='font-size:9.0pt;background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:1'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>软件环境：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>Linux+ Tomcat+ Mysql</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:2'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>硬件环境：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>阿里云</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:3'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>开发工具：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>struts2 +Spring3+MyBatis+Activiti5+Web Service</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:4'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>责任描述：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>1. 负责完成  用户注册登录模块、门户广告管理模块、个人中心模块、投资人申请模块、投资人审批模块、<br />2. 设计开发架构struts2 +Spring3+MyBatis全注解方式的集成，使之基本达到零配置效果；<br />3. 完成用户访问门户可通过手机或邮箱进行注册和登录(密码找回)<br />4. 使用Web Service语言通信技术为实现注册邮件或短信验证码的发送；<br />5. 完成门户焦点图的管理实现焦点图轮播功能；<br />6. 完成用户个人中心模块功能实现 密码修改,我创建的项目,我关注的项目,我投资的项目等…<br />7. 完成投资人申请模块功能实现普通用户提交相关资料经审核成为投资人业务功能;<br />7. 使用Activiti 5框架实投资人审批功能模块的开发；</span><span
+  lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>项目描述：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>项目描述：该项目是中投全球旗下专业负责金融信息技术服务和在线理财平台 ,主要为实现中投全球在互联网股权众筹领域重要战略部署, 系统的设计主要遵循实用性、稳定性、高效性、灵活性等原则，采用国际上先进成熟的技术模型，切实符合客户的各方面需求，能够真正在实际应用中贯彻落实。实现办公自动化，办公无纸化。</span>
+  <span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=712 colspan=2 valign=top style='width:534.1pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin'>2014.03 - 2014.12  陕西省旅游局智慧旅游电商平台</span>
+  <span lang=EN-US style='font-size:9.0pt;background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:1'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>软件环境：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>Windows+ weblogic+ Mysql</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:2'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>硬件环境：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>惠普刀片服务器</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:3'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>开发工具：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>Spring MVC+Spring3+MyBatis+Activiti5+Web Service</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:4'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>责任描述：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>1. 负责完成 景区管理业务系统的开发，负责票务预订模块、门票验证模块、代理商管理模块、代理商门票在线销售接口模块、代理商及验票员的角色分配管理模块，景区设施故障管理模块，<br />2. 设计开发架构SpringMVC+Spring3+MyBatis+Activiti5全注解方式的集成，使之基本达到零配置效果；<br />3. 完成用户访问企业官网订票并生成订单信息调用短信服务商Web Service接口实现订单信息二维码及消费码发送功能；<br />4. 完成景区门票验证功能实现用户线下入园体验功能；<br />5. 使用RBAC 0进行代理商及验票员的权限控制及角色分配；<br />6. 使用Web Service语言通信技术为代理商提供调用接口实现代理商在线订票功能；<br />7. 使用Activiti 5框架实现景区设施故障管理审批功能模块的开发；</span><span
+  lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>项目描述：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>该项目主要为实现陕西省智慧旅游重要战略布局，实现将陕西省打造成全球性智慧旅游目的地，借助现代互联网技术对传统旅游行业繁琐业务流程进行简化，该项目是陕西省智慧旅游平台的重要组成，该项目用于陕西省旅游局对省内所有景区进行统一的监管，系统的设计主要遵循实用性、稳定性、高效性、灵活性等原则，采用国际上先进成熟的技术模型，切实符合客户的各方面需求，能够真正在实际应用中贯彻落实。实现办公自动化，办公无纸化。平台主要系统有：景区管理系统、业务管理系统、旅行社管理系统、应急管理系统。该系统主要功能模块：景区票务管理、景区设备故障管理、景区财务管理、景区人力资源管理、景区安防管理；</span>
+  <span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=712 colspan=2 valign=top style='width:534.1pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:9.0pt;font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin'>2013.08 - 2014.02  西安市市政故障管理系统</span>
+  <span lang=EN-US style='font-size:9.0pt;background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:1'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>软件环境：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>Windows+ Tomcat + Mysql</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:2'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>硬件环境：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>惠普服务器</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:3'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>开发工具：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>Spring MVC+Spring3+MyBatis+Activiti5+easyUI</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:4'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>责任描述：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>1.设计开发架构SpringMVC+Spring3+MyBatis+Activiti5全注解方式的集成，使之基本达到零配置效果； 2. 完成故障单审批部分的设计和开发，并负责解决项目中的一些疑难问题，如：整体架构的优化、代码优化、Tomcat优化；</span><span
+  lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+
+ <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
+  <td width=111 valign=top style='width:83.4pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>项目描述：</span><span lang=EN-US
+  style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=601 valign=top style='width:450.7pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>项目描述：本系统是对市政故障的管理，能够通过故障采集器采集回来的故障报文，自动记录故障信息后实时定点派障，让设备维护人员能够实时发现设备故障，提高了故障处效率。主要模块分为：组织机构、流程管理、故障管理、权限管理、日志和系统管理等。</span>
+  <span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='tab-stops:366.0pt'><span lang=EN-US style='font-size:
+9.0pt;background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal style='tab-stops:366.0pt'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:15.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'>教育经历</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:15.0pt;
+background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><o:p></o:p></span></b></p>
+
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=710 valign=top style='width:534pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>
+  2009.08 - 2013.06&nbsp;&nbsp;北京卓达经济管理研修学院&nbsp;&nbsp;软件工程&nbsp;&nbsp;本科
+  <span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+</table>
+
+
+
+
+
+<p class=MsoNormal style='tab-stops:366.0pt'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:15.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'>语言能力</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:15.0pt;
+background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><o:p></o:p></span></b></p>
+
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=712 valign=top style='width:534pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>英语：读写能力良好</span>
+  <span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='tab-stops:366.0pt'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:15.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'>专业技能</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:15.0pt;
+background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><o:p></o:p></span></b></p>
+
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=712 valign=top style='width:534pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>
+  Ajax、Jquery等前端框架：良好
+  <span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=712 valign=top style='width:534pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>
+  Web Services：一般
+  <span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=712 valign=top style='width:534pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>
+  Activiti5工作流框架：良好
+  <span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=712 valign=top style='width:534pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>
+  JavaSE基础，MVC开发模式，GOF中的设计模式：熟练
+  <span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=712 valign=top style='width:534pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>
+  JSON、XML方式的信息交互：良好
+  <span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=712 valign=top style='width:534pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>
+  Tomcat、JBoss：良好
+  <span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=712 valign=top style='width:534pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>
+  Tomcat、JBoss：良好
+  <span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=712 valign=top style='width:534pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>
+  Mysql、Oracal：熟练
+  <span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=712 valign=top style='width:534pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>
+  struts2、SpringMVC、Spring3、MyBatis：熟练
+  <span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=712 valign=top style='width:534pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast'>
+  HTML、CSS、JavaScript：良好
+  <span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='tab-stops:366.0pt'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:15.0pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'>兴趣爱好</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:15.0pt;
+background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><o:p></o:p></span></b></p>
+
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=712 valign=top style='width:534.1pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='tab-stops:366.0pt'><span style='font-size:9.0pt;
+  font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin'>喜欢研究美食，摄影,下象棋,打篮球。</span>
+  <span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+
+
+</div>
+</body>
+</html>

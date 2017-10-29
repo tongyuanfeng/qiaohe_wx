@@ -1,0 +1,58 @@
+
+更新时间：2017-05-27
+ 卢颖娟流程状态：     标签： ID:98319811 观望有好机会会考虑 15891301041 luyingjuan1128@163.com 女 | 28岁（1988年9月12日 ） | 现居住西安-雁塔区 | 5年工作经验
+最近工作 （1年 7个月 ） 职　位：硬件工程师公　司：西安汉华防务电子科技有限公司行　业：仪器仪表/工业自动化最高学历/学位 专　业：电气工程及其自动化学　校：上海海事大学学历/学位：硕士
+个人信息户口/国籍：西安
+目前年收入： 8 万元 (包含基本工资、补贴、奖金、股权收益等)
+求职意向关键字：硬件研发期望薪资：6000-7999元/月地点：西安职能：电子技术研发工程师行业：电子技术/半导体/集成电路?仪器仪表/工业自动化?电气/电力/水利到岗时间：1个月内工作类型：全职自我评价：1、硬件电路基础扎实，熟悉数字、模拟电路设计，学习、动手能力强。
+2、熟悉单片机、DSP、ARM、FPGA设计，熟悉MSP430、TMS320F28335及STM32F207的应用。
+3、熟练掌握Cadence(OrCAD+Allego)设计软件进行原理图、PCB设计及电路板焊接调试，熟练制作原理图库文件及元器件封装，熟悉AD10。可熟练使用Pspice、Matlab等仿真软件进行电路仿真分析。
+4、了解Xilinx的FPGA开发环境(Xilinx ISE Design Suite)及Actel的FPGA开发环境( Libero IDE)。
+5、熟悉电子产品的设计过程，熟练使用各种硬件调试仪器及工具，具有硬件设计的基础功底，可独立完成单板设计、调试及相关文档编写。
+6、工作责任心强、细心、思维严谨，具有较强的沟通、分析和解决问题的能力；性情温和，善于沟通，能够很好地融入团队中去。
+工作经验2015/12-至今西安汉华防务电子科技有限公司 (1年 7个月 ) 仪器仪表/工业自动化|民营公司研发部硬件工程师工作描述：主要工作内容有：
+1、根据需求进行FPGA的外围电路设计，熟练应用Cadence、Altium designer软件进行电路原理图及PCB设计。
+2、根据原理图输出BOM，准备物料，准备焊接文件。
+3、对新设计的板子进行硬件调试。
+4、编写设计、测试文档及其他设计相关文档。2012/5-2015/9大连尚能科技发展有限公司 (3年 4个月 ) 电子技术/半导体/集成电路|50-150人|民营公司硬件部电子技术研发工程师工作描述：参与公司的伺服驱动器、变频器、FT适配器项目，主要负责控制板的设计、调试、生产协助，具体工作内容：
+1、根据需求进行DSP、ARM、单片机的外围电路设计，包括采样、保护、驱动、逻辑转换、通讯等电路的设计，根据设计需求完成器件选型，如处理器芯片、存储器芯片、运放、逻辑芯片等的选型。熟练使用Pspice软件进行电路仿真分析，熟练应用Cadence软件进行电路原理图及PCB设计。
+2、根据原理图输出BOM，准备物料，准备焊接文件。
+3、对新设计的控制板进行硬件调试，完成底层驱动程序，配合软件工程师给予支持，发现并解决问题。
+4、设计控制板生产测试工装，编写设计、测试文档及其他转产文档。2011/5-2011/7上海裕利年电力电子有限公司实习 (2个月 ) 学生实践 (兼职) 工作描述：2011年5月至2011年7月在上海裕利年电力电子有限公司实习，辅助跑步机上节能电动机的设计，以及跑步机用变频器产品的研发设计，对工程样品和上市商业产品进行必要的功能测试，机械测试，环境测试和EMC测试，比较分析实验数据，提出意见并撰写实验报告
+项目经验2014/3-2015/9低压变桨PLC模块项目描述：STM32F207(硬件环境)
+Keil(软件环境)低压变桨PLC模块内部集成了模拟量输入、模拟量输出、数字量输入、数字量输出、以太网通讯、绝对值编码器等功能，用以取代传统的PLC，以降低成本、节省空间。责任描述：硬件工程师
+1、根据需求进行ARM的外围电路设计，包括采样、编码器接口电路、数字量输入/输出、逻辑转换、通讯等电路设计，完成器件选型，熟练应用Cadence进行原理图设计。
+2、 备物，准备焊接文件。
+3、硬件调试。
+4、设计生产测试工装，编写设计、测试文档及转产文档。2013/7-2013/12FT适配器项目描述：FT风速风向仪是风机控制应用中检测风速和风向的传感器，其风速风向接口信号均为电流型信号，但实际风机上的风速、风向信号接口有电压、电流、脉冲、电平、RS485这些接口，FT适配器是为了适用于不同风机应用，进行信号转换的一个装置。责任描述：1、单片机外围电路设计，包括电压、电流采样电路、分频电路、RS485通讯电路、数字量输入/输出电路、电源转换电路设计、焊接、硬件调试。 
+2、对器件可靠性进行分析，完成WCA（Worst Case Analysis）文档。 
+3、根据原理图输出BOM，准备物料，准备焊接文件。2012/7-2015/9低压伺服驱动器项目描述：TMS320F28335(开发工具)
+CCS3.3(软件环境)低压伺服驱动器是风机上低压变桨柜中的核心控制部件， 在变桨装置中使用直流供电方式，采用超级电容供电，母线电压不超过100V，输出电流有效值范围为140A-530A，带负载能力强，兼容性高；系统具有母线电压欠压、母线电压过压、相电流过流、输出缺相、相相间短路保护、低压电机抱闸断路保护等功能，足以保证系统地可靠运行；责任描述：硬件工程师
+1、根据需求进行DSP外围电路设计，包括采样、保护、驱动、数字量输入/输出、逻辑转换、通讯等电路的设计，完成器件选型，熟练应用Cadence进行原理图设计。
+2、备物，准备焊接文件。
+3、硬件调试。
+4、设计生产测试工装，编写设计、测试文档及转产文档。2012/7-2014/1集成伺服驱动器项目描述：CCS3.3(软件环境)集成伺服驱动器是集成充电器、PLC、电机抱闸于一体的伺服驱动器，系统集成了整流、逆变、高低压抱闸、充电器等功能，很好地满足了风电变桨对伺服驱动器的要求，它能驱动变桨电机，进而带动桨叶进行旋转，并能检测温度、位置、抱闸等信号，对桨叶运行状态进行实时监控，以便对其进行保护。责任描述：1、控制板硬件调试，包括ARM及DSP外围电路调试，配合软件工程师，发现并解决问题。 
+2、对器件可靠性进行分析，完成WCA（Worst Case Analysis）文档。 
+3、根据原理图输出BOM，备物料，准备焊接文件。 
+4、设计控制板生产测试工装，编写设计、测试文档及其他转产文档。
+教育经历2010/9-2012/7上海海事大学硕士|电气工程及其自动化2006/9-2010/7西安工业大学本科|电气工程及其自动化
+技能特长 （包括IT技能、语言能力、证书、成绩、培训经历）▲技能/语言英语良好▲证书2009/12大学英语六级
+ Lu,YingjuanProcess Status：     Tag: ID:98319811 Only good opportunities I will consider 15891301041 luyingjuan1128@163.com Female | 28 Years old（1988.9.12） | Living in Xian-Yanta | 5 Years
+Recent Work Position:No Company:No Industry:NoHighest Degree Major:Electrical Engineering and AutomationSchool:Shanghai Maritime UniversityDegree:Master
+Basic Info.Hukou/Nation:Xian 
+Current Annual Income ￥ 8 (*10K) (Including basic salary,subsidy,bonus,ROE,etc)
+Job PreferencesTarget Salary:￥6,000-7,999 MonthLocation:XianFunction:Electronics Development EngineerIndustry:Electronics/Semiconductor/IC?Instrument/Industry Automation?Electricity/Utilities/EnergyDuty Time:within 1 monthJob Type:Full-time
+Education2010/9-PresentShanghai Maritime UniversityMaster|Electrical Engineering and AutomationDescription:Course 
+The Modern Motion Control System              DSP  
+Modern Power Electronic Technology   Power Electronics and Drive System Simulation        
+Automatic Control Theories              Electronics And Electric circuit CAD    
+Modern Control Theories                 Modeling and Control of Power Electronics 
+Modern Electricity Control And PLC Technique 
+?A solid foundation of professional knowledge, have a deeper understanding of simulation using MATLAB and modeling to the power electronics system.  
+?Having deeper understanding of the basic principles, assembly, structure and basic foundation of the frequency converter. 
+?Understanding the basic control strategy of inverter, induction motor and their mathematical model. 
+?skilled use of oscilloscopes and other electrical test devices, strong hands. 
+?Having strong communication, coordination, interpersonal skills and strong presentation skills. 
+?College English Test-Band six, have a good command of both spoken and written English, can use the network to consult English text and to be translated in time.
+Skills & Speciality (Including IT skills、languages、certifications and trainings)▲Skills/LanguagesEnglishGood ▲Certifications2009/12CET6
+

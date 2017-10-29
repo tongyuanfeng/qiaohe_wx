@@ -1,0 +1,25 @@
+<view class="classname">
+<text class="page-header">活动须知 </text>
+
+<text class="page-body-text">
+ 欢迎加入晨型人俱乐部＆21天早起训练营
+1、采用微信群线上打卡
+2、时间从7月3号到7月23号，共21天
+3、打卡有效时间为早4点到7点30分，过时则停止打卡
+4、参与需要交纳押金21元存入资金池
+5、期间，每人有3次请假机会，即可有3次不打卡，需前一晚@群主说明请假
+6、只要超过3次没请假没打卡，全部押金将被扣除，从训练营淘汰出局
+7、所有坚持下来的人平分资金池的全部存款，不仅可以得到自己的押金，还可以平分被淘汰者的押金
+8、打卡形式为语音+图片，语音道早安并说明今日必须完成的三件事，图片为起床后做的事，如：晨跑app截图，学习素材的照片，美丽的朝阳，挤公车的自己等，21天每天发送的图片不能雷同。
+
+</text>
+
+<text class="page-header">活动详情 </text>
+
+<text class="page-body-text">
+ 
+</text>
+<button type="primary" size="{{primarySize}}" loading="{{loading}}" plain="{{plain}}"
+        disabled="{{disabled}}" bindtap="onclick"> 报名 </button>
+ 
+</view>

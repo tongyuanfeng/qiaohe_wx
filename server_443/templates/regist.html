@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<head>
+    <script src="http://cdn.static.runoob.com/libs/jquery/1.10.2/jquery.min.js"></script>
+
+
+    <link rel="stylesheet" href="http://apps.bdimg.com/libs/bootstrap/3.3.0/css/bootstrap.min.css">
+    <script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="http://apps.bdimg.com/libs/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script>
+
+        (function () {
+
+
+            $.get("skillExchange/user_num", function (data, status) {
+                document.getElementById('setup').innerHTML = "累计已有" + data + "人申请"
+
+            })
+        })();
+
+
+        $.fn.serializeObject = function () {
+            var o = {};
+            var a = this.serializeArray();
+            $.each(a, function () {
+                if (o[this.name]) {
+                    if (!o[this.name].push) {
+                        o[this.name] = [o[this.name]];
+                    }
+                    o[this.name].push(this.value || '');
+                } else {
+                    o[this.name] = this.value || '';
+                }
+            });
+            return o;
+        };
+
+        function onClik(field1) {
+            var jsonuserinfo = $('#skillChange').serializeObject();
+            var data = JSON.stringify(jsonuserinfo);
+
+            console.log(JSON.stringify({payload: data.toString()}));
+            $.post("skillExchange/register",
+
+                JSON.stringify({payload: data.toString()})
+
+                ,
+                function (data, status) {
+                    //alert("数据: \n" + data + "\n状态: " + status);
+                    window.location.href = "{{ url_for('static', filename='success.html') }}";
+                });
+
+
+        }
+
+
+        var c = 0, limit = 3;
+        function doCheck(obj) {
+            obj.checked ? c++ : c--;
+            if (c > limit) {
+                obj.checked = false;
+                alert("超过限制个数啦！");
+                c--;
+            }
+        }
+    </script>
+</head>
+<body>
+
+<div style="width: 60% ; margin: 0 auto">
+
+
+    <div class="form_content">
+
+        <legend></legend>
+        <h1> 巧合圈实名信息登记 </h1>
+        <h5> 为了更好的服务大家，请配合完善个人信息，谢谢！ </h5>
+
+
+    </div>
+
+    <div role="form">
+
+        <form class="form-inline checkbox-inline" id="register" action="" method="post" autocomplete="on">
+
+            <div class="form-group">
+                <label for="name">名称</label>
+                <input type="text" class="form-control" id="name"
+                       placeholder="请输入名称">
+            </div>
+
+            <div class="checkbox">
+                <label><input type="checkbox" value="">选项 1</label></div>
+            <div class="checkbox">
+                <label><input type="checkbox" value="">选项 2</label></div>
+            <div class="radio">
+                <label>
+                    <input type="radio" name="optionsRadios" id="optionsRadios1"
+                           value="option1" checked> 选项 1 </label></div>
+            <div class="radio">
+                <label>
+                    <input type="radio" name="optionsRadios" id="optionsRadios2"
+                           value="option2">
+                    选项 2 - 选择它将会取消选择选项 1 </label></div>
+            <label for="name">内联的复选框和单选按钮的实例</label>
+            <div>
+
+
+            </div>
+        </form>
+    </div>
+
+</div>
+</body>
+</html>

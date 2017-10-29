@@ -1,0 +1,26 @@
+<!--page/baoming/index.wxml-->
+<view class="classname" style="flex-direction:column">
+
+  <image class="baoming" src="../../image/qiaohe.png" bindtap="baocun"></image>
+
+  <form style="flex-direction:column" bindsubmit="formSubmit" bindreset="formReset">
+  
+
+      <view class="section section_gap">
+          <view class="section__title">请选择活动时间</view>
+          <checkbox-group style="flex-direction:column" name="checkbox">
+              <label class="checkbox"><checkbox value="周五晚"/>周五晚 </label>
+              <label class="checkbox"><checkbox value="周六下午"/>周六下午</label>
+              <label class="checkbox"><checkbox value="周六晚"/>周六晚</label>
+              <label class="checkbox"><checkbox value="周天下午"/>周天下午</label>
+              <label class="checkbox"><checkbox value="周天晚"/>周天晚</label>
+              <label class="checkbox"><checkbox value="其他时间"/>其他时间</label>
+          </checkbox-group>
+      </view>
+      <view class="btn-area">
+          <button formType="submit">提交</button>
+          <!-- <button formType="reset">Reset</button> -->
+      </view>
+  </form>
+
+</view>

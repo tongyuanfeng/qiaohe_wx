@@ -1,0 +1,22 @@
+<!--page/zhandouli/index.wxml-->
+<view class="classname">
+
+
+<view  class="page-body-form-picker">
+我的等级是{{level}},前面有{{p_count}}人。
+</view>
+
+
+<view class="classname">
+<image style="width: 320px; height: 320px;" src="../../image/{{level}}.png"></image>
+</view>
+<view class="classname" style="background-color: #eeeeee" >
+  点击右上角，转发分享。
+</view>
+
+<view class="page-body-form-picker" wx:for="{{items}}">
+  第{{index+1}}名: {{item.nickname}} 等级为：{{item.level}}
+</view>
+
+
+</view>

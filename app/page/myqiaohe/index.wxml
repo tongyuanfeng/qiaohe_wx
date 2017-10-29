@@ -1,0 +1,81 @@
+<view  >
+  <image class="userinfo-avatar" src="{{user_touxiang}}"></image>
+
+  <form bindsubmit="formSubmit" bindreset="formReset">
+
+    <view class="section">
+      
+
+      <view class="page-body-form-picker">
+        <view class="page-body-form-picker">用户名</view>
+
+        <input class="page-body-form-picker-value" name="username" wx:if="{{username!=\" \"}}" value="{{username}}" confirm-type="next" />
+        <input class="page-body-form-picker-value" name="username" wx:else placeholder="请输入用户名" confirm-type="next" />
+
+      </view>
+
+      <view class="page-body-form-picker">
+        <view class="section__title">性别</view>
+        <input wx:if="{{gender==1}}" value='男' name="gender" />
+        <input wx:else value='女' name="gender" />
+      </view>
+
+      <view class="page-body-form-picker">
+        <view class="section__title">微信名</view>
+        <input name="nickname" wx:if="{{nickname!=\" \"}}" value="{{nickname}}" confirm-type="next" />
+        <input name="nickname" wx:else placeholder="请输入微信名" confirm-type="next" />
+      </view>
+
+
+
+      <view class="page-body-form-picker">
+        <view class="section__title">微信号</view>
+        <input name="weixin_id" wx:if="{{weixin_id!=\" \"}}" value="{{weixin_id}}" confirm-type="next" />
+        <input name="weixin_id" wx:else placeholder="请输入微信号" confirm-type="next" />
+      </view>
+      <view class="page-body-form-picker">
+        <view class="section__title">电话</view>
+        <input name="cellphone" wx:if="{{cellphone!=\" \"}}" value="{{cellphone}}" confirm-type="next" />
+        <input name="cellphone" wx:else placeholder="请输入电话号" confirm-type="next" />
+      </view>
+      <view class="page-body-form-picker">
+        <view class="section__title" >等级</view>
+        <input class="section__title" value="{{level}}" disabled='true'/>
+      </view>
+    </view>
+    <!-- 
+
+    <view class="section section_gap">
+      <view class="section__title">switch</view>
+      <switch name="switch" />
+    </view>
+    <view class="section section_gap">
+      <view class="section__title">slider</view>
+      <slider name="slider" show-value></slider>
+    </view>
+
+    <view class="section">
+      <view class="section__title">input</view>
+      <input name="input" placeholder="please input here" />
+    </view>
+    <view class="section section_gap">
+      <view class="section__title">radio</view>
+      <radio-group name="radio-group">
+        <label><radio value="radio1"/>radio1</label>
+        <label><radio value="radio2"/>radio2</label>
+      </radio-group>
+    </view>
+    <view class="section section_gap">
+      <view class="section__title">checkbox</view>
+      <checkbox-group name="checkbox">
+        <label><checkbox value="checkbox1"/>checkbox1</label>
+        <label><checkbox value="checkbox2"/>checkbox2</label>
+      </checkbox-group>
+    </view> -->
+    <view class="btn-area">
+      <button formType="submit">更新个人信息</button>
+      <!-- <button formType="reset">Reset</button> -->
+    </view>
+  </form>
+
+</view>

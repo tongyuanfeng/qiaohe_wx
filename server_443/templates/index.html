@@ -1,0 +1,157 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<head>
+    <script src="http://cdn.static.runoob.com/libs/jquery/1.10.2/jquery.min.js"></script>
+
+    <link title="style1" rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" type="text/css"/>
+    <script>
+
+        (function () {
+
+
+            $.get("skillExchange/user_num", function (data, status) {
+                document.getElementById('setup').innerHTML = "累计已有" + data + "人申请"
+
+            })
+        })();
+
+
+        $.fn.serializeObject = function () {
+            var o = {};
+            var a = this.serializeArray();
+            $.each(a, function () {
+                if (o[this.name]) {
+                    if (!o[this.name].push) {
+                        o[this.name] = [o[this.name]];
+                    }
+                    o[this.name].push(this.value || '');
+                } else {
+                    o[this.name] = this.value || '';
+                }
+            });
+            return o;
+        };
+
+        function onClik(field1) {
+            var jsonuserinfo = $('#skillChange').serializeObject();
+            var data = JSON.stringify(jsonuserinfo);
+
+            console.log(JSON.stringify({payload: data.toString()}));
+            $.post("skillExchange/register",
+
+                JSON.stringify({payload: data.toString()})
+
+                ,
+                function (data, status) {
+                    //alert("数据: \n" + data + "\n状态: " + status);
+                    window.location.href="{{ url_for('static', filename='success.html') }}";
+                });
+
+
+        }
+
+    </script>
+</head>
+<body>
+
+<div style="width: 60% ; margin: 0 auto">
+
+
+    <div class="form_content">
+        <fieldset>
+            <legend></legend>
+            <h1> 共享技能 </h1>
+            <h5> 试运营-随后有更多功能与活动与大家见面，敬请期待！ </h5>
+            <p  class="form-row_text  textInfo">
+                想学的东西太多却没时间？？你需要一群万能的小伙伴作为导师为你转身！欢迎用你现有的技能做共享~<br/>
+            </p>
+            <p class="form-row_text textInfo">
+                任何专业（如：语言类，音乐类）、喜好（如：游戏，运动，化妆，摄影）、经验（如：旅行，面试，书单）、服务（如：代购、美容）等等。也就是除了实物以外你可以想到的东西。<br/>
+            </p>
+            <p class="form-row_text  textInfo">
+                通过不同技能持有者的互相学习，最终达到共享技能的目的。<br/>
+{#                方式不限，可线上可线下~<br/>#}
+            </p>
+            <p class="form-row_text  textInfo">
+                例：我是小莽：一个爱玩的人，不喜欢重复的生活，喜欢刺激敢于冒险，希望能从别人那里学习到自己不会的东西，也希望把自己的东西带给别人。拥有的技能是：尤克里里，英语口语；想学的技能是：摄影和店铺经营；可共享技能是：减肥，旅游经验。<br/>
+{#                共享方式：线上/线下为高新区亚美大厦附近。<br/>#}
+            </p>
+
+        </fieldset>
+    </div>
+
+    <div class="form_content">
+        <fieldset>
+            <legend></legend>
+            <p class="form-row">
+                免费报名技能交换
+            </p>
+            <p class="form-row" id="setup">
+            </p>
+            <p class="form-row">
+                注意：暂时只接受西安地区用户申请，更多城市即将开放
+            </p>
+
+        </fieldset>
+    </div>
+
+    <div class="form_content">
+        <form id="skillChange" action="" method="post">
+            <fieldset>
+                <legend></legend>
+                <div class="form-row">
+                    <div class="field-label"><label for="field1">如何称呼 </label>:</div>
+                    <div class="field-widget"><input name="username" id="field1" class="required" placeholder="请输入您的称呼 "
+                                                     title="请输入您的称呼"/></div>
+                </div>
+
+                <div class="form-row">
+                    <div class="field-label"><label for="field1">微信号码 </label>:</div>
+                    <div class="field-widget"><input name="tel" id="field2" class="required" placeholder="请输入您的微信号码"
+                                                     title="请输入您的微信号码"/></div>
+                </div>
+
+                <div class="form-row">
+                    <div class="field-label"><label for="field1">拥有的技能 </label>:</div>
+                    <div class="field-widget"><input name="takenSkill" id="field3" class="required"
+                                                     placeholder="请输入您的技能，如乒乓球/羽毛球/滑板" title="请输入您的技能，如乒乓球/羽毛球/滑板"/>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="field-label"><label for="field1">想学技能 </label>:</div>
+                    <div class="field-widget"><input name="wantSkill" id="field4" class="required"
+                                                     placeholder="请输入您想学的技能，如滑板入门" title="请输入您可以交换的技能，如滑板入门"/></div>
+                </div>
+
+                <div class="form-row">
+                    <div class="field-label"><label for="field1">共享技能</label>:</div>
+                    <div class="field-widget"><input name="shareSkill" id="field5" class="required"
+                                                     placeholder="请输入您可以分享的技能，如 乒乓球拧拉技术" title="请输入您可以分享的技能，如 乒乓球拧拉技术"/>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="field-label"><label for="field1">授课途径</label>:</div>
+                    <div class="field-widget">
+
+                        <select style="height: 30px ; background:#f3fcfe">
+                            <option>线下</option>
+                            <option selected="selected">线上</option>
+                            <option>两者结合</option>
+                        </select>
+                    </div>
+                </div>
+
+            </fieldset>
+
+
+            <input type="button" name="submit" value="提交" onClick="onClik()"/>
+        </form>
+    </div>
+
+</div>
+</body>
+</html>

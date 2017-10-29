@@ -1,0 +1,88 @@
+
+更新时间：2017-02-24
+ 张毅流程状态：     标签： ID:94364423 目前正在找工作 13659281413 zy5211314521@126.com 男 | 29岁（1987年9月16日 ） | 现居住西安-高新技术产业开发区 | 6年工作经验
+最近工作 （3年 5个月 ） 职　位：项目主管公　司：威发（西安）软件有限公司行　业：计算机软件最高学历/学位 专　业：电子商务学　校：西安财经学院学历/学位：本科
+个人信息QQ号： 805728578户口/国籍：陕西省身高： 175cm婚姻状况：未婚家庭地址： 陕西西安 (邮编：710100) 政治面貌：中共党员
+目前年收入： 13 万元 (包含基本工资、补贴、奖金、股权收益等)
+求职意向关键字：JAVA开发?JAVA?JAVA工程师期望薪资：10000-14999元/月地点：西安职能：高级软件工程师?系统架构设计师行业：计算机软件到岗时间：1个月内工作类型：全职自我评价：1.具备较高的职业素养、较强的通用技能和自我管理技能； 
+2.自我学习意识强烈，可在较短时间内掌握所需知识技能； 
+3.本人热爱软件事业，对IT领域的软件开发和设计工作有浓厚的兴趣，能承受较大的工作压力；
+4.自学能力强，喜欢钻研新技术，敢于面对和克服困难；
+5.有比较强的动手能力，勇于面对困难和挑战，有很好的分析问题与解决问题的能力； 
+6.工作认真负责，积极上进，能够吃苦耐劳，有良好的职业素质。
+
+IT技能
+1.掌握面向对象技术和工程化编程思想以及OOA&OOD软件设计，特别是MVC编程模型设计；
+2.熟练使用java语言进行项目开发，熟悉Html/CSS/DIV/JavaScript/JQuery等页面表现层技术以及JSP, Ajax等技术，熟练使用WebServices服务编程；
+3.熟悉Struts2、Hibernate、Spring、SpringMVC框架，掌握应用服务器的配置，熟练掌握Tomcat/Glassfish等Web容器以及J2EE容器的配置以及部署；
+4.熟悉Oracle, SQL Server,Mysql 数据库；
+5.熟练TCP/UDP网络协议，并能基于Mina框架的Socket编程通讯;
+6.熟练使用Eclipse、MyEclipse等开发工具，熟练使用PowerDesigner/Visio2007/Project2010等设计工具以及SVN/Maven等项目管理工具.
+工作经验2014/2-至今威发（西安）软件有限公司 (3年 5个月 ) 计算机软件|150-500人|合资软件研发部-协作应用研发部项目主管工作描述：项目产品一：会议管理系统 
+项目技术：采用SpringMVC与Hibernate框架集成，SVN版本控制以及Maven项目管理，项目集成第三方服务如Exchange/Google Calendar/Lotus Notes等应用服务，采用jQuery/jGrid/bootstrap等前台技术； 
+项目描述：本系统实现通过PC/手机/展板/第三方应用预定管理会议，并实时通过邮件/短信/话机/手机助手等方式通知参会人参加普通会议(实体会议)以及在线会议(WebEx/Acano),从而实现办公高效化
+责任描述：主要负责项目框架支持、新需求评估、产品与项目规划、任务分配、团队协调以及相关代码开发、技术指导以及文档编写
+项目产品二：会议预约系统 
+项目技术：采用SpringMVC与Hibernate框架集成，SVN版本控制以及Maven项目管理，项目集成第三方Exchange等应用服务以及消息通知服务(邮件、短信、其他系统消息)，为前台提供restfull接口； 
+项目描述：本系统实现通过PC/展板/第三方应用预定会议/管理会议，并实时通过邮件/短信等方式通知参会人参加普通会议(实体会议)以及在线WebEx会议,从而实现办公高效化
+责任描述：主要负责项目框架支持、新需求评估、产品与项目规划、任务分配、团队协调以及相关代码开发、技术指导以及文档编写。 
+项目产品三：工位管理系统 
+项目技术：采用SpringMVC与Hibernate框架集成，SVN版本控制以及Maven项目管理，项目集成第三方服务如微信公众号通知等应用服务，采用jQuery/bootstrap/d3/svg等前台技术； 
+项目描述：本系统实现通过PC/手机预定管理工位，并实时通过邮件/短信/手机app等方式通知占用工位,管理员通过前台管理页面进行对工位的管理控制，从而实现办公高效化
+责任描述：主要负责项目框架支持、新需求评估、产品与项目规划、任务分配以及相关代码开发、技术指导
+项目产品四：话机增值系统 
+项目技术：采用Struts与Hibernate框架集成，与思科Call Manage服务集成实现系统对思科话机(IP Phone)的话单进行分析、合并、处理以及费用计算形成话务费用报表 
+责任描述：主要负责项目维护、新需求评估、新需求开发以及日常问题处理
+项目产品五：考勤系统 
+项目技术：采用SpringMVC与Hibernate框架集成，SVN版本控制以及Maven项目管理，采用jQuery/jGrid/bootstrap等前台技术； 
+项目描述：本系统实现通过PC/手机app进行考勤记录，定制相关行政考核报表,实现行政办公高效化以及职工考勤高效化
+责任描述：主要负责项目框架搭建、新需求评估、任务分配、团队协调以及相关代码开发、技术指导以及文档编写2011/8-2013/8陕西导航科技有限公司 (2年 ) 计算机软件|150-500人|民营公司软件研发部软件工程师工作描述：项 目 一：通讯服务中心系统V1.0/V2.0
+软件环境：Windows，JDK1.6，SQL Server/MySql,Tomcat/Glassfish
+开发工具：MyEclipse/SVN
+项目技术：项目基于Mina框架的TCP/UDP通讯技术以及分布式缓存技术
+项目描述：通过对天琴协议、部标协议、GT02/03/05/06/07/08以及GS503/GK301协议、阿佩斯协议、K2318/GK3537等协议的解析，实现蓝精灵、小精灵、部标机、老人机、贝贝熊等终端的全球定位实时定位以及历史轨迹查询。
+责任描述：主要负责对天琴协议、部标协议、GT02/03/05/06/07/08以及GS503/GK301协议、阿佩斯协议、K2318/GK3537等各种协议的解析、数据库设计以及框架的搭建等工作。
+
+项 目 二：位置服务平台监控系统V1.0/V2.0
+软件环境：Windows，JDK1.6，SQL Server/MySql,Tomcat/Glassfish
+开发工具：MyEclipse/Dreamweaver/PowerDesigner/Visio2007/SVN
+项目技术：项目基于J2EE平台，B/S模式开发，WEB层使用JSP/JavaScript/div+css技术，业务逻辑层使用轻量级的Java Bean，采用Struts/Hibernate/Spring/Ajax/Log4j等技术框架，通过数据源与JNDI操作数据库，通过WebServices实现分布式通讯服务. 
+项目描述：主要包括监控管理、数据维护、统计报表、服务支持模块，监控管理主要实现终端的实时监控、指令下发以及历史查询、监控列表等，数据维护实现服务器、企业、用户、终端以及系统等相关资料维护，统计报表实现里程、超速、指令下发、疲劳驾驶等统计工作，服务支持实现广告发布、围栏设置、多媒体管理等
+责任描述：主要负责终端实时监控、指令下发、终端资料维护、企业用户维护、角色权限维护、以及数据统计以及广告发布等功能的前后台实现与处理以及数据库设计。
+
+项 目 三：通讯数据转发系统
+软件环境：Windows，JDK1.6，SQL Server/MySql,Tomcat/Glassfish
+开发工具：MyEclipse/Dreamweaver/PowerDesigner/Visio2007/SVN
+项目技术：项目基于Mina框架的TCP/UDP通讯技术以及WebServices服务
+项目描述：实现平台数据处理转化，并实现数据转发以及平台对接。
+责任描述：负责数据处理转换并实现数据转发以及与其他平台的对接。
+
+项 目 四：安全管理平台系统
+软件环境：Windows，JDK1.6，SQL Server/MySql,Tomcat/Glassfish
+开发工具：MyEclipse/Dreamweaver/PowerDesigner/Visio2007/SVN
+项目技术：项目基于J2EE平台，使用Struts/Hibernate/Spring/Ajax/Log4j等技术框架，B/S模式开发，WEB层使用JSP/JavaScript/div+css技术，视图层使用JSTL、OGNL以及EL组件，通过数据源与JNDI操作数据库. 
+项目描述：实现组织划分、用户资料、应用软件、系统设置、角色权限等资料维护与管理.
+责任描述：主要负责组织机构维护、用户资料维护、用户应用绑定、角色权限绑定、系统设置等前后台设计与处理以及数据库设计
+
+项 目 五：新闻电话薄系统（服务端）
+软件环境：Windows/Linux，Oracle11g/DB2/SQL Server2008, Weblogic10/Glassfish3.1.2
+开发工具：MyEclipse8.6 /PowerDesigner15 /SVN
+项目技术：项目基于J2EE平台，使用Struts2/Hibernate3.6/Spring3.0等主流技术框架，WEB层使用JSP/JQuery技术,通过spring封装的数据源连接技术实现数据库的操作，通过freemaker技术实现新闻即使生成静态页面,使用openfire技术实现新闻推送手机客户端，并使用一些如ZTree/LigerUI/Layout/JQueryUI等插件.
+项目描述：实现组织机构划分及其电话薄维护、用户资料及其电话薄维护、新闻信息维护以及手机推送以及组织机构用户资料Excel表格数据自动导入数据库.
+责任描述：独立完成负责并完成组织机构及其电话薄维护、用户资料及其电话薄维护、新闻信息维护等服务端前后台设计与处理以及数据库设计
+教育经历2008/9-2012/6西安财经学院本科|电子商务专业描述：专业课程
+数据结构、数据库原理与应用、Java SE、Oracle、SQL Server 2008、JavaScript、JSP、计算机基础、计算机网络、WEB程序设计、电子商务网上支付等；
+技能特长 （包括IT技能、语言能力、证书、成绩、培训经历）▲技能/语言J2EE精通JSP精通CSS精通Oracle熟练JavaScript精通C/C++一般Java精通英语熟练▲证书2011/12大学英语四级2011/6全国计算机等级考试三级 （优秀） 2011/3全国计算机应用技术证书 （优秀） ▲培训经历2011/1-2011/7java web oracle
+培训机构：西安Oracle资源中心培训地点：西安软件园培训描述：java开发
+web开发
+oracle开发
+ yi,zhangProcess Status：     Tag: ID:94364423 I'm looking for jobs now 13659281413 zy5211314521@126.com Male | 29 Years old（1987.9.16） | Living in Xian-Gaoxinjishuchanye | 6 Years
+Recent Work (2 months ) Position:BuyerCompany:Xi'an Limited company of HuaBao LogisticsIndustry:Transportation/Logistic/DistributionHighest Degree Major:E-BusinessSchool:Xi'an University of Finance and EconomicsDegree:Bachelor
+Basic Info.QQ ID： 805728578Hukou/Nation:Shaanxi Height: 175cmMarital Status:UnmarriedAddress: XI'AN,SHANNXI Province (Code:710100) Political Status:Party Member
+Current Annual Income ￥ 13 (*10K) (Including basic salary,subsidy,bonus,ROE,etc)
+Job PreferencesTarget Salary:￥10,000-14,999 MonthLocation:XianFunction:Senior Software Engineer?System Architecture DesignIndustry:Computers,SoftwareDuty Time:within 1 monthJob Type:Full-time
+Work Experience2009/7-2009/9Xi'an Limited company of HuaBao Logistics (2 months ) Transportation/Logistic/Distribution|Private Comp.PurchaseBuyerDescription:Purchase agent 
+The stevedores
+Education2008/9-2012/6Xi'an University of Finance and EconomicsBachelor|E-Business
+Skills & Speciality (Including IT skills、languages、certifications and trainings)▲Skills/LanguagesJ2EEExpert JSPExpert CSSExpert OracleAdvanced JavaScriptExpert C/C++Average JavaExpert EnglishAdvanced ▲Certifications2011/12CET42011/6National Computer Rank Examination Level 3 （Excellent） 2011/3National Computer Application Technology Certificate （Excellent） 
+

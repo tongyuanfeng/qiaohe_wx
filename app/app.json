@@ -1,0 +1,56 @@
+{
+  "pages": [
+    
+    "page/index/index",
+    "page/myqiaohe/index",
+    "page/zhandouli/index",
+    "page/about/about",
+    "page/langren/index",
+    "page/juben/index",
+    "page/jineng/index",
+    "page/zaoqi/index",
+    "page/toutiao/index",
+    "page/baoming/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    
+    "navigationBarTitleText": "巧合圈",
+    "navigationBarBackgroundColor": "#48C23D",
+    "backgroundColor": "#fff",
+    "enablePullDownRefresh":true,
+    "backgroundTextStyle":"dark"
+  },
+  "tabBar": {
+    "color": "#cacaca",
+    "selectedColor": "#48C23D",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [{
+      "pagePath": "page/index/index",
+      "iconPath": "image/主页.png",
+      "selectedIconPath": "image/主页.png",
+      "text": "首页"
+     },     
+     {
+      "pagePath": "page/about/about",
+      "iconPath": "image/收藏.png",
+      "selectedIconPath": "image/收藏.png",
+      "text": "关于巧合"
+    },
+    
+     {
+      "pagePath": "page/myqiaohe/index",
+      "iconPath": "image/个人.png",
+      "selectedIconPath": "image/个人.png",
+      "text": "我的巧合"
+    }]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "connectSocket": 10000,
+    "uploadFile": 10000,
+    "downloadFile": 10000
+  },
+  "debug": false
+}

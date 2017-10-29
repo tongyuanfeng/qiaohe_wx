@@ -1,0 +1,24 @@
+<view >
+<!-- <text class="page-header">关于巧合 </text> -->
+
+<text class="page-body-text">
+ 
+
+</text>
+
+   <!-- <video class="section tc" id="myVideo" src="http://wxsnsdy.tc.qq.com/105/20210/snsdyvideodownload?filekey=30280201010421301f0201690402534804102ca905ce620b1241b726bc41dcff44e00204012882540400&bizid=1023&hy=SH&fileparam=302c020101042530230204136ffd93020457e3c4ff02024ef202031e8d7f02030f42400204045a320a0201000400" danmu-list="{{danmuList}}" enable-danmu danmu-btn controls></video>  -->
+    
+    <view class="section tc">
+    <!-- <video class="section tc" id="myVideo" src="http://ugcyd.qq.com/flv/242/29/c05284seehr.p712.1.mp4?sdtfrom=v1010&guid=e7c50844088ae5e75ca815747ba3a28d&vkey=56F7EB7DE5EA61B77A20CFDCEFC67B1832DA3AC8B3ED63944F4CE1BF40A936E78861043AC44E34F9E84789C5AF22D43F8AF3B6AD79F4E05F0502045DBA7C5BF5A608EAEBCC16B0F118A54E28F4CEB0A364C27C5C01492F5C4E93A7258EEC9D39630F7FA9740ADDE6BA359FC7660758754D547AEDEDA63E58&platform=2" danmu-list="{{danmuList}}" enable-danmu danmu-btn controls></video>   -->
+    <video class="section tc" id="myVideo" src="https://qiaohequan.com/v/test.mp4" danmu-list="{{danmuList}}" enable-danmu danmu-btn controls></video>  
+   
+    </view>
+    
+  <!-- <view class="btn-area">
+    <button bindtap="bindButtonTap">获取视频</button>
+    <input bindblur="bindInputBlur"/>
+    <button bindtap="bindSendDanmu">发送弹幕</button>
+  </view> -->
+  
+
+</view>
